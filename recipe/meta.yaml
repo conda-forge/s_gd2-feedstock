@@ -12,6 +12,7 @@ source:
 build:
   number: 4
   script: "{{ PYTHON }} -m pip install . -vv"
+  skip: True         # [python_impl == 'pypy']
 
 requirements:
   build:
