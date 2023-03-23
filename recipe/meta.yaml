@@ -16,12 +16,11 @@ build:
 requirements:
   build:
     - {{ compiler('cxx') }}
-    - numpy >=1.16.0
-    - cython
   host:
     - python
     - pip
     - numpy >=1.16.0
+    - cython
   run:
     - python
     - {{ pin_compatible('numpy') }}
