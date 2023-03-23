@@ -1,11 +1,11 @@
-About s_gd2
-===========
+About s_gd2-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/s_gd2-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jxz12/s_gd2
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/s_gd2-feedstock/blob/main/LICENSE.txt)
 
 Summary: Stochastic Gradient Descent for Graph Drawing
 
